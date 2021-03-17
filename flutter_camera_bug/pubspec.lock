@@ -22,13 +22,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.8.0"
-  camera_camera:
-    dependency: "direct main"
-    description:
-      name: camera_camera
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.0.0"
   camera_platform_interface:
     dependency: transitive
     description:
@@ -95,13 +88,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  font_awesome_flutter:
-    dependency: transitive
-    description:
-      name: font_awesome_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "9.0.0-nullsafety"
   matcher:
     dependency: transitive
     description:
@@ -144,13 +130,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.0"
-  rxdart:
-    dependency: transitive
-    description:
-      name: rxdart
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.26.0"
   sky_engine:
     dependency: transitive
     description: flutter

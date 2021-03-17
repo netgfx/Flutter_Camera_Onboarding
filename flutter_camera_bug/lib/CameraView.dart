@@ -4,7 +4,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:camera/camera.dart';
-import 'package:camera_camera/camera_camera.dart';
 import './LinePainter.dart';
 import 'AuthData.dart';
 
